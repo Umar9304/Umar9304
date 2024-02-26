@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Umar9304
-- 👀 I’m interested in Artificial intelligence 
-- 🌱 I’m currently learning python, c++
-- 💞️ I’m looking to collaborate on AI
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning python and its library(numpy,pandas,etc)
+- 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me through my email umarrehankhan2@gmail.com
 
 <!---
