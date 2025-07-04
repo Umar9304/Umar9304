@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umar9304
+- 👋 Hi, I’m Umar rehan khan
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning python and its library(numpy,pandas,etc)
 - 💞️ I’m looking to collaborate on ML
